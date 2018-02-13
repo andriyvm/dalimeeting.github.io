@@ -44,7 +44,7 @@ organizers:
   url: http://theis.io/
   institute: Twitter
 room: 
-show_abstracts: false
+show_abstracts: true
 talks:
 - title: 
 - title: Opening remarks
